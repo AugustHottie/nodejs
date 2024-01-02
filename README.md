@@ -12,7 +12,7 @@ You will need to have the following installed on your machine:
 - MongoDB
 ### Installing
 Clone the repository:
-git clone https://github.com/AugustHottie/project-name.git
+git clone https://github.com:AugustHottie/nodejs.git
 
 
 ## Navigate into the project directory:
